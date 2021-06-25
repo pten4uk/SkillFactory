@@ -108,3 +108,9 @@ def XO():
 
 play()
 XO()
+print('--------')
+print('--------')
+print('--------')
+print('--------')
+print('--------')
+input()
